@@ -4,22 +4,22 @@ body {
     margin: 0;
     padding-top: 150px;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    color: #00000000;
-    background-color: rgb(249, 117, 2);
+    color: #E71400;
+    background-color: #76F702;
 }
 
 #nav {
     width: 100%;
     height: 110px;
     padding: 20px 0 5px 0;
-    border-bottom: solid 8px rgb(249, 117, 2);
-    box-shadow: 10px 10px 10px #00000000;
+    border-bottom: solid 8px #76F702;
+    box-shadow: 10px 10px 10px #E71400;
     position: absolute;
     top: 0;
 }
 
 #title {
-    color: rgb(0, 0, 0);
+    color: #E71400;
     margin: 0;
     font-family: "Baloo Bhaina";
     text-transform: uppercase;
@@ -49,12 +49,12 @@ a {
 }
 
 .button {
-    background-color: rgb(0, 0, 0);
+    background-color: #E71400;
     padding: 0.3vw 3vw;
     border-radius: 2px;
     cursor: pointer;
     display: inline-block;
-    color: rgb(249, 117, 2);
+    color: #76F702;
 }
 
 .button:hover {
